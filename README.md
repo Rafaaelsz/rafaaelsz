@@ -1,6 +1,7 @@
 ### Olá, me chamo Rafael Tavares! 👋
 
-#### Estudante de Programação, atualmente cursando a faculdade de Engenharia de Software.
+#### Estudante de Programação, cursando a faculdade de Engenharia de Software. 
+#### Atualmente com foco em Desenvolvimento Front-End, futuramente FullStack.
 
 ### Minhas redes sociais 👇
 
