@@ -10,7 +10,6 @@
 [![Rafael GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rafaaelsz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Rafael GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=rafaaelsz&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaaelsz&hide_progress=true)
 
 ### Tecnologias que utilizo no dia a dia 👇
 
