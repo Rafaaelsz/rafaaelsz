@@ -1,12 +1,24 @@
-### Olá, me chamo Rafael Tavares! 👋
+# Olá, eu sou Rafael Tavares 👋
 
-#### Estudante de Programação, cursando a faculdade de Engenharia de Software. 
-#### Atualmente com foco em Desenvolvimento Backend JAVA e Python.
+Desenvolvedor em formação com foco em Backend e Full Stack, utilizando tecnologias como Python, Java, Django, FastAPI, PostgreSQL, Docker, JavaScript, TypeScript, React e Next.js.
 
-### Minhas redes sociais 👇
+Atualmente venho desenvolvendo projetos próprios voltados para APIs, sistemas web, automações e aplicações completas, sempre buscando aplicar boas práticas de organização, documentação e arquitetura.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-tavares-p26/)
+## 🚀 Principais projetos
 
-## Email para contato 👇
+- **Portfolio Full Stack** — Portfólio profissional com projetos, tecnologias e trajetória.
+- **CS2 Box Analyzer** — Extensão para navegador que analisa riscos em sites de caixas de CS2.
+- **Price Tracking API** — API de rastreamento de preços e alertas.
+- **Orbit ERP** — Sistema web para controle de estoque e gestão.
+- **ConverteAi** — Aplicação em Python para conversão de arquivos.
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaeltperaldo@gmail.com)
+## 🛠️ Tecnologias
+
+Python • Java • Django • FastAPI • PostgreSQL • Docker • SQL • Linux  
+JavaScript • TypeScript • React • Next.js • Tailwind CSS
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/rafael-tavares-p26/
+- Portfólio: https://portfolio-tvrs-six.vercel.app/
+- Email: rafaeltperaldo@gmail.com
