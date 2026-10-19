@@ -1,4 +1,4 @@
-# Olá, eu sou Rafael Tavares 👋
+# Olá, eu sou Rafael Tavares
 
 Desenvolvedor Full Stack em formação, com foco em Backend, APIs, sistemas web e aplicações completas. Tenho desenvolvido projetos próprios utilizando tecnologias como Python, Java, TypeScript, React, Next.js, Django, FastAPI, Spring Boot, PostgreSQL, Docker e SQL.
 
@@ -6,7 +6,7 @@ Atualmente estou aprofundando meus estudos em desenvolvimento Backend e Full Sta
 
 Busco evoluir constantemente como desenvolvedor, aplicando boas práticas de organização, documentação, arquitetura, versionamento e deploy em projetos reais.
 
-## 🚀 Principais projetos
+## Principais projetos
 
 * **Finder Vagas TI** — Aplicação voltada para busca e organização de vagas na área de tecnologia.
 * **ConsorcioTrack** — MVP de um Micro SaaS B2B para corretores de consórcio, com funil comercial, clientes, grupos, cotas, simulação de lances e indicadores operacionais.
@@ -15,11 +15,8 @@ Busco evoluir constantemente como desenvolvedor, aplicando boas práticas de org
 * **Price Tracking API** — API de rastreamento de preços e alertas usando FastAPI, PostgreSQL, Redis, Celery e BeautifulSoup.
 * **Orbit ERP** — Sistema web de gestão de estoque e ERP desenvolvido com Django, com dashboard, controle de produtos, movimentações, relatórios e autenticação.
 * **ConverteAi** — Aplicação em Python com interface gráfica para conversão de arquivos de forma simples e prática.
-* **Floricultura Landing Page** — Landing page responsiva desenvolvida para uma floricultura.
-* **API de Gastos** — API simples em Python para controle de despesas.
-* **Intelflix** — Projeto web desenvolvido em JavaScript.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 **Backend:**
 Python • Java • FastAPI • Django • Spring Boot • APIs REST • SQL
@@ -33,7 +30,7 @@ PostgreSQL • SQLite • Docker • Docker Compose • Redis • Linux • Git 
 **Outros conhecimentos:**
 Scraping • Celery • Alembic • Flyway • Automações • Integrações • Deploy • Documentação técnica
 
-## 📌 Atualmente estudando
+## Atualmente estudando
 
 * Desenvolvimento Backend com Java, Spring Boot e Python
 * Arquitetura de APIs REST
@@ -41,7 +38,7 @@ Scraping • Celery • Alembic • Flyway • Automações • Integrações �
 * Docker, bancos relacionais e boas práticas de deploy
 * Aplicações SaaS, automações e integrações
 
-## 📫 Contato
+## Contato
 
 * **LinkedIn:** https://www.linkedin.com/in/rafael-tavares-p26/
 * **Portfólio:** https://portfolio-tvrs-six.vercel.app/
