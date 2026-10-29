@@ -15,4 +15,4 @@ Desenvolvedor Full Stack com foco em backend. Gosto de construir produtos comple
 
 ### 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/rafael-tavares-p26/) · [Portfólio](https://portfolio-tvrs-six.vercel.app/) · [rafaeltperaldo@gmail.com](mailto:rafaeltperaldo@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rafael-tavares-p26/) · [Portfólio](https://rafaeltavares-webport.vercel.app) · [rafaeltperaldo@gmail.com](mailto:rafaeltperaldo@gmail.com)
